@@ -26,8 +26,8 @@ I specialize in:
 - **Data Science**: Statistics, Probability, Data Exploration
 
 ## 🌟 Let's Connect:
-- **LinkedIn**: https://www.linkedin.com/in/md-sahil-islam-335789357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - **Email**: mdsahilislam57@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/md-sahil-islam-335789357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - **Kaggle**:https://www.kaggle.com/sahilislam007
 - **Medium**:https://medium.com/@mdsahilislam57
 
