@@ -36,7 +36,5 @@ I'm always excited to collaborate, learn new things, and contribute to projects 
 Let’s make data work for us! 🚀
 
 ### 🐍 Watch my GitHub contributions snake!
-
-![GitHub Snake Light](https://github.com/sahil007707/sahil007707/blob/output/github-contribution-grid-snake.svg)
 ![GitHub Snake Dark](https://github.com/sahil007707/sahil007707/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
