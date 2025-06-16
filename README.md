@@ -4,7 +4,7 @@ I'm an aspiring **Data Analyst** and an avid **data enthusiast**, driven by a pa
 
 ## 🧑‍💻 What I Do:
 I specialize in:
-- **Data Analysis**: Using **Python** (Pandas, NumPy, Matplotlib, Seaborn) to clean, explore, and visualize data.
+- **Data Analysis**: Using **Python** (Pandas, NumPy, Matplotlib, Seaborn,Plotly,Scikit-learn,Pytorch,Polars) to clean, explore, and visualize data.
 - **Machine Learning**: Building predictive models with **Scikit-learn** to forecast trends and solve business challenges.
 - **Database Management**: Leveraging **MySQL** to manage, query, and analyze large datasets with efficiency.
 - **Data Visualization**: Creating interactive dashboards and charts using **Power BI**, **Tableau**, and Excel to present data in the most actionable way.
